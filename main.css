@@ -11,3 +11,7 @@
     background-image: linear-gradient(to right, #3c71b7, #6c9cbc);
     padding: 0 !important;
 }
+.nav-brand img{
+    height: 40px;
+    padding-left: 20px;
+}
