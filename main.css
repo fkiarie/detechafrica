@@ -8,10 +8,25 @@
     z-index: 10;
 }
 .navbar{
-    background-image: linear-gradient(to right, #3c71b7, #6c9cbc);
+    background-image: linear-gradient(to right, #3c71b7, #364e5e);
     padding: 0 !important;
 }
 .nav-brand img{
     height: 40px;
     padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+    
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.navbar-toggler{
+    color: #fff;
+    font-size: 30px !important;
+    outline: none !important;
 }
