@@ -104,3 +104,24 @@
     margin-left: 20px;
 }
 
+/* TESTIMONIALS */
+
+#testimonials{
+    margin: 100px 0;
+}
+.testimonials{
+    border-left: 4px solid #364e5e;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonials img{
+    height: 60px;
+    width: 60px;
+    border-radius: 60%;
+    margin: 0 10px;
+}
+.user-details{
+    display: inline-block;
+    font-size: 12px;
+    
+}
