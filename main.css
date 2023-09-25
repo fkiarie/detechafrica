@@ -144,3 +144,13 @@
 .social-icons a:hover img{
     transform: translateY(-10px);
 }
+
+/* FOOTER */
+
+#footer{
+    background-image: linear-gradient(to right, #3c71b7, #364e5e);
+    color: #fff;
+}
+.footer-img{
+    width: 100%;
+}
